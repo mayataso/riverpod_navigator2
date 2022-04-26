@@ -1,4 +1,4 @@
-# riverpod_sample
+# riverpod_navigator2
 
 Flutter Riverpod + Navigator2.0 がややこしかったので、実装サンプルを作成した。
 
